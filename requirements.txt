@@ -1,0 +1,3 @@
+# LUA OBFUSCATOR MAX v4.0
+# Pure Python - no external dependencies required!
+# Python 3.7+ recommended
