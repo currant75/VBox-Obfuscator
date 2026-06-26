@@ -1,2 +1,0 @@
-# VBox-Obfuscator
-Free Obfuscatot
